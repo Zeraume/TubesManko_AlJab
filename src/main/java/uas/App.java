@@ -19,6 +19,16 @@ public class App
             int userid = input.nextInt();
             System.out.println("Enter password: ");
             int password = input.nextInt();
+            System.out.println("Enter password: ");
+            System.out.println("Enter password: ");
+            System.out.println("Enter password: ");
+            System.out.println("Enter password: ");
+            System.out.println("Enter password: ");
+            System.out.println("Enter password: ");
+            System.out.println("Enter password: ");
+            System.out.println("Enter password: ");
+            System.out.println("Enter password: ");
+            System.out.println("Enter password: ");
             
             try{
                 user = new UserData(userid, password);
